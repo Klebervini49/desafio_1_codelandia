@@ -12,7 +12,7 @@
 </p>              
 
 <h1 align="center">
-    <img src="./blog.png" alt='Imagem do projeto ' >
+    <img src="./blog.png" height='350px'  alt='Imagem do projeto'>
 </h1>
 
 ## 🚀 Tecnologias
