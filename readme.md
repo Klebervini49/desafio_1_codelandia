@@ -31,5 +31,4 @@ O projeto consiste na criação de uma landing page de um blog.
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
 Feito por Kleberson 💜
